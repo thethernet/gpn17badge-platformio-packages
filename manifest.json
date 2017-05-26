@@ -5,7 +5,7 @@
 			"system": [
 				"linux_x86_64"
 			],
-			"url": "https://raw.githubusercontent.com/thethernet/gpnbadge2017-platformio-distribution/master/esptool2/tool-esptool2-linux_x86_64-1.tar", 
+			"url": "https://github.com/thethernet/gpn17badge-platformio-packages/raw/master/esptool2/tool-esptool2-linux_x86_64-1.0.0.tar", 
 			"version": "1.0.0"
 		}
     ]
