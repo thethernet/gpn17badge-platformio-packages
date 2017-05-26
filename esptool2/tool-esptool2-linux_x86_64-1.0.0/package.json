@@ -1,0 +1,9 @@
+{
+    "description": "esptool2",
+    "name": "tool-esptool2",
+    "system": [
+        "linux_x86_64"
+    ],
+    "url": "https://github.com/raburton/esptool2",
+    "version": "1.0.0"
+}

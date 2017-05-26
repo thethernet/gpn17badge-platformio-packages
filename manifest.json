@@ -1,0 +1,12 @@
+{
+	"tool-esptool2": [
+		{
+			"sha1": "e35fec29aa315676c45c04ffaba979d0dff51715", 
+			"system": [
+				"linux_x86_64"
+			],
+			"url": "https://raw.githubusercontent.com/thethernet/gpnbadge2017-platformio-distribution/master/esptool2/tool-esptool2-linux_x86_64-1.tar", 
+			"version": "1.0.0"
+		}
+    ]
+}
