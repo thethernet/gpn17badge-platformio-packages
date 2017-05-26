@@ -1,7 +1,7 @@
 {
 	"tool-esptool2": [
 		{
-			"sha1": "e35fec29aa315676c45c04ffaba979d0dff51715", 
+			"sha1": "d4e09ef48bfc59dbb0f84837c0e3186f7cae093a", 
 			"system": [
 				"linux_x86_64"
 			],
